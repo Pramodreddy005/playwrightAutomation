@@ -1,0 +1,9 @@
+[     309ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/cricket-stats/icc-rankings/men/batting?format=odi:0
+[    2199ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Format already created on the page.
+https://goo.gle/gpt-message#134 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603180101/pubads_impl.js?cb=31097344:18
+[    2505ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&gdpr=0&gpp_sid=-1&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[    2627ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3020ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&gdpr=0&gpp_sid=-1&uid=CAESEDAJKeKmfenhQFsubZg3OSI&google_cver=1:0
+[    3721ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[    3883ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://9d309e45778e05a7e8531c962d872d8a.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[    3884ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://9d309e45778e05a7e8531c962d872d8a.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.

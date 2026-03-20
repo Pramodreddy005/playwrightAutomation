@@ -1,0 +1,48 @@
+[    1273ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/:0
+[    3236ms] [WARNING] Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing. @ https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js:0
+[    3546ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603180101/pubads_impl.js?cb=31097344:18
+[    3726ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603180101/pubads_impl.js?cb=31097344:18
+[    3982ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603180101/pubads_impl.js?cb=31097344:18
+[    4373ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Format already created on the page.
+https://goo.gle/gpt-message#134 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603180101/pubads_impl.js?cb=31097344:18
+[    4740ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&redirect=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dlkqd_dbm%26google_hm%3D%24%24rawlkqduserid%7Cbase64%24%24:0
+[    4871ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&partnerUserId=CAESEKsT86gjXIxdi9sPHKMjgtg&google_cver=1:0
+[    6265ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    6301ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    6311ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    7184ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=109&partnerUserId=73511f9d61&gdpr=0&gdpr_consent=:0
+[    9165ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://fbd7ac6f8d90f145c9a72b4b4e778406.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[    9167ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://fbd7ac6f8d90f145c9a72b4b4e778406.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[    9171ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://fbd7ac6f8d90f145c9a72b4b4e778406.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[    9173ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://fbd7ac6f8d90f145c9a72b4b4e778406.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[   12140ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   12382ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   13452ms] [ERROR] Failed to load resource: the server responded with a status of 451 () @ https://pippio.com/api/sync?pid=710914&_=1&it=4&it=4&it=4&iv=efd9d600745748454c30b7aa4495dd7f1719e9e4d5bf756066a7d87e68c8c970:0
+[   14538ms] Failed to read a named property 'addEventListener' from 'Window': Blocked a frame with origin "https://fbd7ac6f8d90f145c9a72b4b4e778406.safeframe.googlesyndication.com" from accessing a cross-origin frame.
+[   14970ms] [ERROR] Failed to load resource: the server responded with a status of 410 (Gone) @ https://ads.stickyadstv.com/user-matching?id=3664&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&ccpa=[CCPA]&coppa=[COPPA]&redirectId=https%3A%2F%2Fcs.pgammedia.com%2Fb538ab39d27ff2bec69a976f169e6e81.gif%3Fpuid%3D%7BviewerId%7D%26gdpr%3D%5BGDPR%5D%26gdpr_consent:0
+[   13452ms] [ERROR] Failed to load resource: the server responded with a status of 451 () @ https://pippio.com/api/sync?pid=710914&_=1&it=4&it=4&it=4&iv=efd9d600745748454c30b7aa4495dd7f1719e9e4d5bf756066a7d87e68c8c970:0
+[   16387ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cs.krushmedia.com/4831fbf13dd518a56346a6e0ec8ba9d5.gif?puid=ID5-1-5e3ea4ec-6e61-476f-8f08-02a08d864b7d&redir=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D1315%26dspUserId%3D%5BUID%5D&gdpr=0&gdpr_consent=:0
+[   17187ms] [ERROR] Failed to load resource: net::ERR_CERT_DATE_INVALID @ https://measureadv.com/user?gdpr=0&gdpr_consent=&usp_consent=&p=4:0
+[   21217ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://uipglob.semasio.net/adform/1/info?sType=sync&sExtCookieId=2106059451774918115&sInitiator=internal&gdpr=0&gdpr_consent=:0
+[   26839ms] [WARNING] The key "target-densitydpi" is not supported. @ https://www.cricbuzz.com/cricket-stats/icc-rankings/men/batting:0
+[   28389ms] [WARNING] [GPT] Anchor /1024780/Mobile_Web/LB/News_Index not requested: Format already created on the page.
+https://goo.gle/gpt-message#134 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603180101/pubads_impl.js?cb=31097344:18
+[   29078ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   29078ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   29372ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   29484ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api-prod.secureprivacy.ai/api/banner/v2/template/6797582564002e25107f3c2b?Language=en&Location=IN:0
+[   29486ms] [ERROR] No associated legal templates found @ https://www.cricbuzz.com/_next/static/chunks/7698-189b2947b7485c38.js:0
+[   29782ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api-prod.secureprivacy.ai/api/banner/v2/preferenceCenter/6797582564002e25107f3c2b?Language=en&Location=IN:0
+[   29783ms] [ERROR] No associated legal template found @ https://www.cricbuzz.com/_next/static/chunks/7698-189b2947b7485c38.js:0
+[   30473ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://ce68fc2454a1916e5ffc94f3a82ac34b.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[   30474ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://ce68fc2454a1916e5ffc94f3a82ac34b.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[   30475ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://ce68fc2454a1916e5ffc94f3a82ac34b.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[   30489ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://ce68fc2454a1916e5ffc94f3a82ac34b.safeframe.googlesyndication.com" from accessing a frame with origin "https://www.cricbuzz.com". Protocols, domains, and ports must match.
+[   30655ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   30897ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   35760ms] [WARNING] UET not available @ https://cmp.secureprivacy.ai/secure-privacy-v2.js:0
+[   35765ms] [WARNING] Clarity ID not found in page HTML @ https://cmp.secureprivacy.ai/secure-privacy-v2.js:0
+[   35768ms] [WARNING] Meta Pixel ID not found in page HTML @ https://cmp.secureprivacy.ai/secure-privacy-v2.js:0

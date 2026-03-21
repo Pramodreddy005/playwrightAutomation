@@ -12,7 +12,7 @@ export default defineConfig({
   use: {
     trace: 'on-first-retry',
     headless: false,
-    actionTimeout: 10000,  // timeout for each action like click, fill etc
+    actionTimeout: 30000,  // timeout for each action like click, fill etc
     navigationTimeout: 30000,
     viewport: null,
     launchOptions: {

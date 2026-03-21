@@ -1,10 +1,15 @@
 {
-    "regUser":{
+    "regUser2":{
         "uName":"hiuser441",
         "password":"Hiuser@123"
     },
-    "regUser2":{
+    "regUser":{
         "uName":"IDPramod005",
         "password":"Pramod@005"
+    },
+    "signUpTest":{
+        "uName":"IDPramod005",
+        "password":"Pramod@005",
+        "mail":"pramod005@gmail.com"
     }
 }

@@ -12,4 +12,4 @@ test.afterEach(async ({ page }, testInfo) => {
   }
 });
 
-export { expect } from '@playwright/test';
+export { Page, expect } from '@playwright/test';

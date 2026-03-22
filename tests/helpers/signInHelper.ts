@@ -61,3 +61,23 @@ export async function checkOut( page : Page):Promise<void> {
     await page.locator("button[id='pay_now_btn_SAFEPAY']").click();
     await expect(page.getByText("Thank you for buying with Advantage")).toHaveText("Thank you for buying with Advantage",{timeout:5000});
 }
+
+export async function contactUs( page : Page):Promise<void> {
+    await page.goto('https://advantageonlineshopping.com/#/');
+    await page.locator("a[translate='CONTACT_US']").click();
+    await page.locator("select[name='categoryListboxContactUs']").selectOption("Laptops");
+    await page.locator("select[name='productListboxContactUs']").selectOption("HP Chromebook 14 G1(ES)");
+    await page.locator("input[name='emailContactUs']").fill("testuser@gmail.com");
+    await page.locator("textarea[name='subjectTextareaContactUs']").fill(" Hi Im am having issue with product");
+    await page.locator("button[id='send_btn']").click();
+    await expect(page.locator("p[class='roboto-regular successMessage ng-binding']")).toHaveText("Thank you for contacting Advantage support.",{timeout:5000});
+}
+
+export async function managementConsole( page : Page):Promise<void> {
+    await page.goto('https://advantageonlineshopping.com/#/');
+    await page.locator("a[id='helpLink']").click();
+    const [newPage] = await Promise.all([
+        page.context().waitForEvent('page'), page.locator("(//*[normalize-space()='Management Console'])[2]").click()]);
+    await newPage.waitForLoadState();
+    await expect(newPage.locator("//*[normalize-space()='Enter details to login']")).toBeVisible();
+}

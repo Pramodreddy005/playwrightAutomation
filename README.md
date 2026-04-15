@@ -27,7 +27,7 @@ This framework demonstrates:
 - **Reporting:** Playwright HTML Reports
   
 ## 📂 Project Structure
-
+```
 playwrightAutomation/
 │── tests/
 │   ├── test/
@@ -49,6 +49,7 @@ playwrightAutomation/
 │── playwright.config.ts        # Framework configuration
 │── .github/workflows/          # CI pipeline
 │── package.json
+```
 
 ````
 

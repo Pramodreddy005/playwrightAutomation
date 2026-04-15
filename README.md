@@ -132,7 +132,7 @@ npx playwright show-report
 
 ## 🧪 Sample Test Flow
 
-Example from your framework:
+Example
 
 ```ts
 test("Add To cart", async ({page}) => {
